@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+langchain_community
+tiktoken
+langchainhub
+chromadb
+beautifulsoup4
+unstructured
+lxml
+sentence-transformers
